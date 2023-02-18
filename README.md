@@ -3,7 +3,7 @@
 This project automatically ingests, stores, transforms the latest seismic activity data from the USGS (United States Geologic Society) for later analysis.
 
 
-![Data Pipeline Architecture](https://github.com/ANelson82/de_zoomcamp_2022_earthquake_capstone/blob/main/images/architecture_earthquake.excalidraw.png)
+![Data Pipeline Architecture](![image](https://user-images.githubusercontent.com/79177516/219901400-4d0b5b33-3478-4e20-bb5c-08b5739e943a.png))
 
 # Dashboard
 [Earthquake Capstone Project Google Looker Studio](https://datastudio.google.com/reporting/d545276d-bc78-4f66-806a-7218411a4ea9)
